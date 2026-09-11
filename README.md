@@ -6,7 +6,9 @@ I design and engineer platform software at infrastructure scale, focusing on sys
 
 By day, I build backend platform infrastructure behind thousands of production Kubernetes clusters: deployment systems, controllers, identity, secrets, and fleet operations. Outside work, I apply those same production standards across a wide technical range. That spans deep-systems tooling like custom JWT controllers and programmatic SOPS backends, down to specialized applications for history, calendar automation, and cinema data. Every project gets the same bar: self-contained binaries, real dependencies, and zero tolerance for hand-waving.
 
-### Selected work
+### Selected Work
+
+A firm firewall separates my day job from my open-source work, so none of my enterprise code appears here. What I can show you here is my personal work, and it is held to the same rigorous standards: finished software, deterministic behavior, real dependencies, and zero reliance on hacks or shortcuts.
 
 | Project                                                      | What it is                                                                                                     |
 | :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
@@ -18,7 +20,7 @@ By day, I build backend platform infrastructure behind thousands of production K
 | **[depstamp](https://github.com/dcadolph/depstamp)**         | Records which dependencies an agent actually used in work that passed.                                         |
 | **[preen](https://github.com/dcadolph/preen)**               | Plans and executes clean Git history rewrites while preserving the actual work.                                |
 
-### More projects
+### More Projects
 
 | Project                                                    | What it is                                                                                        |
 | :--------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
@@ -29,6 +31,8 @@ By day, I build backend platform infrastructure behind thousands of production K
 
 ### Engineering
 
-Go is my primary language. I favor the standard library, real dependencies over mocks, reproducible tests, and software that can be inspected and run on its own machine.
+Go is my primary language, with a heavy bias toward standard library design, integration testing against real dependencies, and self-contained binaries that run predictably anywhere.
 
-I also build AI and agent tooling, but I am deliberately selective about where a model belongs. When correctness needs to be reproducible, I prefer a deterministic system over a probabilistic one.
+Beyond backend platform engineering and DevOps, I leverage a range of languages and tools to get the job done the right way, and the projects here are evidence of that. Go is my wheelhouse, but I do not stay parked in it. When a native Apple interface calls for Swift and SwiftUI, or a workflow calls for Python, I use the right tool for the job and build it to the same production standard as my backend services.
+
+I treat LLMs as specialized components rather than foundational architecture, keeping models isolated to tasks where fuzzy outputs are actually acceptable. If a system requires deterministic correctness, speed, or auditability, I solve it with code, not a prompt.
