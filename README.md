@@ -4,11 +4,11 @@ Go, Kubernetes, distributed systems, developer tooling.
 
 I design and engineer platform software at infrastructure scale, focusing on systems that are simple to operate, deterministic, and resilient under pressure.
 
-By day, I build backend platform infrastructure behind thousands of production Kubernetes clusters: deployment systems, controllers, identity, secrets, and fleet operations. Outside work, I apply those same production standards across a wide technical range. That spans deep-systems tooling like custom JWT controllers and programmatic SOPS backends, down to specialized applications for history, calendar automation, and cinema data. Every project gets the same bar: self-contained binaries, real dependencies, and zero tolerance for hand-waving.
+By day, I build backend platform infrastructure behind thousands of production Kubernetes clusters: deployment systems, controllers, identity, secrets, and fleet operations. Outside work, I build and maintain independent software across infrastructure, security, developer tooling, and specialized applications. The common thread is deliberate engineering: self-contained binaries, real dependencies, deterministic behavior, and software built to run reliably anywhere.
 
 ### Selected Work
 
-A firm firewall separates my day job from my open-source work, so none of my enterprise code appears here. What I can show you here is my personal work, and it is held to the same rigorous standards: finished software, deterministic behavior, real dependencies, and zero reliance on hacks or shortcuts.
+My enterprise work is proprietary, so none of it appears here. These public projects reflect my personal work, held to those same engineering standards.
 
 | Project                                                      | What it is                                                                                                     |
 | :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
@@ -33,6 +33,6 @@ A firm firewall separates my day job from my open-source work, so none of my ent
 
 Go is my primary language, with a heavy bias toward standard library design, integration testing against real dependencies, and self-contained binaries that run predictably anywhere.
 
-Beyond backend platform engineering and DevOps, I leverage a range of languages and tools to get the job done the right way, and the projects here are evidence of that. Go is my wheelhouse, but I do not stay parked in it. When a native Apple interface calls for Swift and SwiftUI, or a workflow calls for Python, I use the right tool for the job and build it to the same production standard as my backend services.
+Go is my wheelhouse, not a constraint. I use Swift and SwiftUI for native Apple interfaces, Python where it fits the problem, and whatever other tools the system actually calls for. The language changes; the engineering standard does not.
 
-I treat LLMs as specialized components rather than foundational architecture, keeping models isolated to tasks where fuzzy outputs are actually acceptable. If a system requires deterministic correctness, speed, or auditability, I solve it with code, not a prompt.
+I treat LLMs as specialized components rather than foundational architecture. Models are useful where fuzzy output is acceptable. Where a system requires deterministic correctness, speed, or auditability, I solve it with code, not a prompt.
