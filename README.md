@@ -2,9 +2,11 @@
 
 Go, Kubernetes, distributed systems, developer tooling.
 
-I build and operate software at infrastructure scale, and spend my time outside work building tools that I would actually want to use.
+I design and engineer platform software at infrastructure scale, focusing on systems that are simple to operate, deterministic, and resilient under pressure.
 
-My day job is backend and platform engineering behind thousands of production Kubernetes clusters: deployment systems, controllers, identity, secrets, fleet operations, and the abstractions that hold them together. The work I can show here is smaller in scale, but built with the same standards: finished software, real dependencies, reproducible behavior, and very little tolerance for hand waving.
+By day, I build backend platform infrastructure behind thousands of production Kubernetes clusters: deployment systems, controllers, identity, secrets, and fleet operations. 
+
+Outside work, I apply those same production standards across a wide technical range. That spans deep-systems tooling like custom JWT controllers and programmatic SOPS backends, down to specialized applications for history, calendar automation, and cinema data. Every project gets the same bar: self-contained binaries, real dependencies, and zero tolerance for hand-waving.
 
 ### Selected work
 
