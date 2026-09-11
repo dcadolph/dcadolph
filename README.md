@@ -1,21 +1,24 @@
-Most of what I build comes down to one question: did it actually happen, or did
-we just assume it did? Passing tests, plausible docs, green workflows, and
-matching clusters all invite the assumption. Each of these projects replaces
-one of those assumptions with a check.
+## I build software.
 
-| | What it establishes |
-|:--|:--|
-| **[kibble](https://github.com/dcadolph/kibble)** | Your README's install steps actually work, because they ran from zero in a clean container instead of on a machine that already had everything. Fails CI, not a new user's terminal. |
-| **[fleetsweeper](https://github.com/dcadolph/fleetsweeper)** | A Kubernetes cluster really is the odd one out, measured against the rest of its fleet instead of eyeballed. |
-| **[battlesight](https://github.com/dcadolph/battlesight)** | A historical claim is only as strong as its sourcing. 13,000+ battles from 3000 BC to today, on an interactive map, each tied to where it came from. |
-| **[preen](https://github.com/dcadolph/preen)** | A rewritten git history still holds exactly the work you did. Atomic commits with real messages, and the plan shown before anything moves. |
+Mostly Go, infrastructure, developer tools, and local first software.
 
-### Also public
+These are the projects I am most proud of.
 
-- [slop-chop](https://github.com/dcadolph/slop-chop), strip AI tells from text in one deterministic local pass
-- [vamoose](https://github.com/dcadolph/vamoose), calendar workflows that advance themselves, across Outlook, Google, iCloud, and CalDAV
-- [cipher](https://github.com/dcadolph/cipher), programmatic SOPS for Go: encrypt, decrypt, rotate, and audit secret files
-- [jwtmint](https://github.com/dcadolph/jwtmint), mint, sign, verify, and inspect JWTs from the command line
-- [midden](https://github.com/dcadolph/midden), the plain and simple local-first personal journal
-- [cinatlas](https://github.com/dcadolph/cinatlas), quick movie facts: where it was filmed, who is in it, what else they made
-- [depstamp](https://github.com/dcadolph/depstamp), record which dependencies an agent actually used in work that passed
+| Project                                                      | What it is                                                                                              |
+| :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
+| **[slop-chop](https://github.com/dcadolph/slop-chop)**       | Strip recognizable AI writing tells from text in one deterministic local pass. No API or cloud service. |
+| **[kibble](https://github.com/dcadolph/kibble)**             | Tests whether a project's installation instructions actually work from a completely clean environment.  |
+| **[cipher](https://github.com/dcadolph/cipher)**             | Programmatic SOPS for Go. Encrypt, decrypt, rotate, and audit secret files.                             |
+| **[jwtmint](https://github.com/dcadolph/jwtmint)**           | Mint, sign, verify, and inspect JWTs from the command line.                                             |
+| **[fleetsweeper](https://github.com/dcadolph/fleetsweeper)** | Finds the Kubernetes cluster that does not look like the rest of the fleet.                             |
+| **[depstamp](https://github.com/dcadolph/depstamp)**         | Records which dependencies an agent actually used in work that passed.                                  |
+| **[preen](https://github.com/dcadolph/preen)**               | Plans and safely executes Git history rewrites while preserving the actual work.                        |
+
+### More projects
+
+| Project                                                    | What it is                                                                             |
+| :--------------------------------------------------------- | :------------------------------------------------------------------------------------- |
+| **[midden](https://github.com/dcadolph/midden)**           | A local first personal journal built around plain files and durable data.              |
+| **[battlesight](https://github.com/dcadolph/battlesight)** | 13,000+ historical battles mapped interactively and tied back to their sources.        |
+| **[cinatlas](https://github.com/dcadolph/cinatlas)**       | Quick movie facts: where something was filmed, who was in it, and what else they made. |
+| **[vamoose](https://github.com/dcadolph/vamoose)**         | Calendar workflows that advance themselves across Outlook, Google, iCloud, and CalDAV. |
