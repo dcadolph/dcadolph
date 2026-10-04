@@ -14,11 +14,11 @@ My enterprise work is proprietary, so none of it appears here. These public proj
 | :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
 | **[slop-chop](https://github.com/dcadolph/slop-chop)**       | Deterministic local processing for stripping recognizable AI writing tells from text. No API or cloud service. |
 | **[kibble](https://github.com/dcadolph/kibble)**             | Verifies that a project's installation instructions actually work from a completely clean environment.         |
+| **[preen](https://github.com/dcadolph/preen)**               | Splits a messy working tree into clean atomic commits, verified by a hash of your work before and after.       |
 | **[cipher](https://github.com/dcadolph/cipher)**             | Programmatic SOPS for Go, including encryption, decryption, rotation, and auditing across six KMS backends.    |
 | **[jwtmint](https://github.com/dcadolph/jwtmint)**           | JWT library, daemon, controller, and JWKS tooling for minting, signing, verifying, and inspecting tokens.      |
 | **[fleetsweeper](https://github.com/dcadolph/fleetsweeper)** | Multi cluster Kubernetes drift detection that finds the cluster that does not look like the rest of the fleet. |
 | **[depstamp](https://github.com/dcadolph/depstamp)**         | Records which dependencies an agent actually used in work that passed.                                         |
-| **[preen](https://github.com/dcadolph/preen)**               | Plans and executes clean Git history rewrites while preserving the actual work.                                |
 
 ### More Projects
 
