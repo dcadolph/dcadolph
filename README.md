@@ -14,17 +14,18 @@ My enterprise work is proprietary, so none of it appears here. These public proj
 | :----------------------------------------------------------- | :----------------------- | :------------------------------------------------------------------------------------------- |
 | **[kibble](https://github.com/dcadolph/kibble)**             | Go CLI, GitHub Action    | Runs your documented install steps in a clean container, so a broken install fails CI.       |
 | **[slop-chop](https://slop-chop.com)**                       | Go CLI                   | Strips the AI tells out of text in one deterministic local pass.                             |
+| **[moorings](https://macmoorings.com)**                      | macOS app, Swift         | Rectangle's shortcuts, drag snapping and tiling, plus apps parked on the screen edges.       |
+| **[sheepdog](https://macsheepdog.com)**                      | macOS app, Swift         | A meeting alarm that barks until you join, and hands back what you were doing after.         |
 | **[preen](https://github.com/dcadolph/preen)**               | Go CLI                   | Splits a messy working tree into ordered atomic commits, hash checked end to end.            |
+| **[fleetsweeper](https://github.com/dcadolph/fleetsweeper)** | Go CLI, webhook          | Finds the Kubernetes cluster that drifted, using the fleet itself as the baseline.           |
 | **[cipher](https://github.com/dcadolph/cipher)**             | Go library, CLI          | Programmatic SOPS for Go across six key backends, with rotation, editing, and audit.         |
 | **[jwtmint](https://github.com/dcadolph/jwtmint)**           | Go library               | A JWT library with a daemon, a controller, an admission webhook, and JWKS publishing.        |
-| **[fleetsweeper](https://github.com/dcadolph/fleetsweeper)** | Go CLI, webhook          | Finds the Kubernetes cluster that drifted, using the fleet itself as the baseline.           |
-| **[cinatlas](https://github.com/dcadolph/cinatlas)**         | Go CLI                   | Quick movie facts from the command line, with filming locations you can map.                 |
-| **[sheepdog](https://macsheepdog.com)**                      | macOS app, Swift         | A meeting alarm that barks until you join, and hands back what you were doing after.         |
-| **[moorings](https://macmoorings.com)**                      | macOS app, Swift         | Rectangle's shortcuts, drag snapping and tiling, plus apps parked on the screen edges.       |
 | **[skerry](https://skerrynotes.com)**                        | macOS and iOS app, Swift | Encrypted Markdown notes that stay on your devices, with sync to storage you control.        |
 | **[skua](https://skuaweather.com)**                          | iOS app, Go server       | Free weather with a bird that reads your day, built on open forecast data.                   |
 | **[midden](https://github.com/dcadolph/midden)**             | Go CLI, iPhone app       | A personal journal kept as plain markdown you own, written from the terminal or your iPhone. |
 | **[battlesight](https://github.com/dcadolph/battlesight)**   | Web app, Go, TypeScript  | An interactive atlas of 13,000+ battles from 3000 BC, each tied to its sources.              |
+| **[cinatlas](https://github.com/dcadolph/cinatlas)**         | Go CLI                   | Quick movie facts from the command line, with filming locations you can map.                 |
+| **[depstamp](https://github.com/dcadolph/depstamp)**         | Claude Code skill        | Records which dependencies an agent actually used in work that built and its tests passed.   |
 
 ### Engineering
 
