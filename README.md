@@ -14,7 +14,7 @@ My enterprise work is proprietary, so none of it appears here. These public proj
 | :----------------------------------------------------------- | :----------------------- | :------------------------------------------------------------------------------------------- |
 | **[kibble](https://github.com/dcadolph/kibble)**             | Go CLI, GitHub Action    | Runs your documented install steps in a clean container, so a broken install fails CI.       |
 | **[slop-chop](https://slop-chop.com)**                       | Go CLI                   | Strips the AI tells out of text in one deterministic local pass.                             |
-| **[moorings](https://macmoorings.com)**                      | macOS app, Swift         | Rectangle's shortcuts, drag snapping and tiling, plus apps parked on the screen edges.       |
+| **[moorings](https://macmoorings.com)**                      | macOS app, Swift         | Snap, tile, throw, stash and recall every window on any Mac, and pin apps to the edges.      |
 | **[sheepdog](https://macsheepdog.com)**                      | macOS app, Swift         | A meeting alarm that barks until you join, and hands back what you were doing after.         |
 | **[preen](https://github.com/dcadolph/preen)**               | Go CLI                   | Splits a messy working tree into ordered atomic commits, hash checked end to end.            |
 | **[fleetsweeper](https://github.com/dcadolph/fleetsweeper)** | Go CLI, webhook          | Finds the Kubernetes cluster that drifted, using the fleet itself as the baseline.           |
