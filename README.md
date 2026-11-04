@@ -16,7 +16,6 @@ My enterprise work is proprietary, so none of it appears here. These public proj
 | **[slop-chop](https://slop-chop.com)**                       | Go CLI                   | Strips the AI tells out of text in one deterministic local pass.                                |
 | **[moorings](https://macmoorings.com)**                      | macOS app, Swift         | Snap, tile, throw, stash and recall every window on any Mac, and pin apps to the edges.         |
 | **[icelos](https://github.com/dcadolph/icelos)**             | macOS app, Go CLI        | Converts video and audio between 40 formats on a Mac, using the Apple media engine when it can. |
-| **[sheepdog](https://macsheepdog.com)**                      | macOS app, Swift         | A meeting alarm that barks until you join, and hands back what you were doing after.            |
 | **[preen](https://github.com/dcadolph/preen)**               | Go CLI                   | Splits a messy working tree into ordered atomic commits, hash checked end to end.               |
 | **[fleetsweeper](https://github.com/dcadolph/fleetsweeper)** | Go CLI, webhook          | Finds the Kubernetes cluster that drifted, using the fleet itself as the baseline.              |
 | **[cipher](https://github.com/dcadolph/cipher)**             | Go library, CLI          | Programmatic SOPS for Go across six key backends, with rotation, editing, and audit.            |
