@@ -18,6 +18,7 @@ My enterprise work is proprietary, so none of it appears here. These public proj
 | **[icelos](https://github.com/dcadolph/icelos)**             | macOS app, Go CLI        | Converts video and audio between 40 formats on a Mac, using the Apple media engine when it can. |
 | **[preen](https://github.com/dcadolph/preen)**               | Go CLI                   | Splits a messy working tree into ordered atomic commits, hash checked end to end.               |
 | **[fuginaut](https://github.com/dcadolph/fuginaut)**         | macOS app, Swift         | A free second clock at the center of the menu bar, for wide screens.                            |
+| **[peepwho](https://peepwho.app)**                           | Go CLI                   | Answers "who knows about this?" from your team's git, Slack, and Jira, with a reason for each.  |
 | **[fleetsweeper](https://github.com/dcadolph/fleetsweeper)** | Go CLI, webhook          | Finds the Kubernetes cluster that drifted, using the fleet itself as the baseline.              |
 | **[cipher](https://github.com/dcadolph/cipher)**             | Go library, CLI          | Programmatic SOPS for Go across six key backends, with rotation, editing, and audit.            |
 | **[jwtmint](https://github.com/dcadolph/jwtmint)**           | Go library               | A JWT library with a daemon, a controller, an admission webhook, and JWKS publishing.           |
