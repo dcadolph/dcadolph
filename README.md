@@ -14,18 +14,18 @@ My enterprise work is proprietary, so none of it appears here. These public proj
 | :----------------------------------------------------------- | :----------------------- | :---------------------------------------------------------------------------------------------- |
 | **[kibble](https://github.com/dcadolph/kibble)**             | Go CLI, GitHub Action    | Runs your documented install steps in a clean container, so a broken install fails CI.          |
 | **[slop-chop](https://slop-chop.com)**                       | Go CLI                   | Strips the AI tells out of text in one deterministic local pass.                                |
+| **[preen](https://github.com/dcadolph/preen)**               | Go CLI                   | Splits a messy working tree into ordered atomic commits, hash checked end to end.               |
+| **[peepwho](https://peepwho.app)**                           | Go CLI                   | Answers "who knows about this?" from your team's git, Slack, and Jira, with a reason for each.  |
 | **[moorings](https://macmoorings.com)**                      | macOS app, Swift         | Snap, tile, throw, stash and recall every window on any Mac, and pin apps to the edges.         |
 | **[icelos](https://github.com/dcadolph/icelos)**             | macOS app, Go CLI        | Converts video and audio between 40 formats on a Mac, using the Apple media engine when it can. |
-| **[preen](https://github.com/dcadolph/preen)**               | Go CLI                   | Splits a messy working tree into ordered atomic commits, hash checked end to end.               |
-| **[fuginaut](https://github.com/dcadolph/fuginaut)**         | macOS app, Swift         | A free second clock at the center of the menu bar, for wide screens.                            |
-| **[peepwho](https://peepwho.app)**                           | Go CLI                   | Answers "who knows about this?" from your team's git, Slack, and Jira, with a reason for each.  |
 | **[fleetsweeper](https://github.com/dcadolph/fleetsweeper)** | Go CLI, webhook          | Finds the Kubernetes cluster that drifted, using the fleet itself as the baseline.              |
-| **[cipher](https://github.com/dcadolph/cipher)**             | Go library, CLI          | Programmatic SOPS for Go across six key backends, with rotation, editing, and audit.            |
-| **[jwtmint](https://github.com/dcadolph/jwtmint)**           | Go library               | A JWT library with a daemon, a controller, an admission webhook, and JWKS publishing.           |
-| **[skerry](https://skerrynotes.com)**                        | macOS and iOS app, Swift | Encrypted Markdown notes that stay on your devices, with sync to storage you control.           |
-| **[skua](https://skuaweather.com)**                          | iOS app, Go server       | Free weather with a bird that reads your day, built on open forecast data.                      |
-| **[midden](https://github.com/dcadolph/midden)**             | Go CLI, iPhone app       | A personal journal kept as plain markdown you own, written from the terminal or your iPhone.    |
 | **[battlesight](https://github.com/dcadolph/battlesight)**   | Web app, Go, TypeScript  | An interactive atlas of 13,000+ battles from 3000 BC, each tied to its sources.                 |
+| **[jwtmint](https://github.com/dcadolph/jwtmint)**           | Go library               | A JWT library with a daemon, a controller, an admission webhook, and JWKS publishing.           |
+| **[cipher](https://github.com/dcadolph/cipher)**             | Go library, CLI          | Programmatic SOPS for Go across six key backends, with rotation, editing, and audit.            |
+| **[skua](https://skuaweather.com)**                          | iOS app, Go server       | Free weather with a bird that reads your day, built on open forecast data.                      |
+| **[skerry](https://skerrynotes.com)**                        | macOS and iOS app, Swift | Encrypted Markdown notes that stay on your devices, with sync to storage you control.           |
+| **[midden](https://github.com/dcadolph/midden)**             | Go CLI, iPhone app       | A personal journal kept as plain markdown you own, written from the terminal or your iPhone.    |
+| **[fuginaut](https://github.com/dcadolph/fuginaut)**         | macOS app, Swift         | A free second clock at the center of the menu bar, for wide screens.                            |
 | **[cinatlas](https://github.com/dcadolph/cinatlas)**         | Go CLI                   | Quick movie facts from the command line, with filming locations you can map.                    |
 | **[depstamp](https://github.com/dcadolph/depstamp)**         | Claude Code skill        | Records which dependencies an agent actually used in work that built and its tests passed.      |
 
