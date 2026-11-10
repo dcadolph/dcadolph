@@ -17,7 +17,7 @@ My enterprise work is proprietary, so none of it appears here. These public proj
 | **[preen](https://github.com/dcadolph/preen)**               | Go CLI                  | Splits a messy working tree into ordered atomic commits, hash checked end to end.               |
 | **[peepwho](https://github.com/dcadolph/peepwho)**           | Go CLI                  | Answers "who knows about this?" from your team's git, Slack, and Jira, with a reason for each.  |
 | **[moorings](https://github.com/dcadolph/moorings)**         | macOS app, Swift        | Snap, tile, throw, stash and recall every window on any Mac, and pin apps to the edges.         |
-| **[icelos](https://github.com/dcadolph/icelos)**             | macOS app, Go CLI       | Converts video and audio between 40 formats on a Mac, using the Apple media engine when it can. |
+| **[icelos](https://icelos.app)**                             | macOS app               | Converts video and audio between 40 formats on a Mac, using the Apple media engine when it can. |
 | **[fleetsweeper](https://github.com/dcadolph/fleetsweeper)** | Go CLI, webhook         | Finds the Kubernetes cluster that drifted, using the fleet itself as the baseline.              |
 | **[battlesight](https://github.com/dcadolph/battlesight)**   | Web app, Go, TypeScript | An interactive atlas of 13,000+ battles from 3000 BC, each tied to its sources.                 |
 | **[jwtmint](https://github.com/dcadolph/jwtmint)**           | Go library              | A JWT library with a daemon, a controller, an admission webhook, and JWKS publishing.           |
