@@ -15,9 +15,10 @@ My enterprise work is proprietary, so none of it appears here. These public proj
 | **[kibble](https://github.com/dcadolph/kibble)**             | Go CLI, GitHub Action   | Runs your documented install steps in a clean container, so a broken install fails CI.          |
 | **[slop-chop](https://github.com/dcadolph/slop-chop)**       | Go CLI                  | Strips the AI tells out of text in one deterministic local pass.                                |
 | **[preen](https://github.com/dcadolph/preen)**               | Go CLI                  | Splits a messy working tree into ordered atomic commits, hash checked end to end.               |
-| **[peepwho](https://github.com/dcadolph/peepwho)**           | Go CLI                  | Answers "who knows about this?" from your team's git, Slack, and Jira, with a reason for each.  |
+| **[whotoask](https://github.com/dcadolph/whotoask)**         | Go CLI, macOS app       | Answers "who knows about this?" from your team's git, Slack, and Jira, with a reason for each.  |
 | **[moorings](https://github.com/dcadolph/moorings)**         | macOS app, Swift        | Snap, tile, throw, stash and recall every window on any Mac, and pin apps to the edges.         |
 | **[icelos](https://icelos.app)**                             | macOS app               | Converts video and audio between 40 formats on a Mac, using the Apple media engine when it can. |
+| **[sheepdog](https://macsheepdog.com)**                      | macOS app, Swift        | A meeting alarm that escalates until you join, and stops on its own when your mic goes live.    |
 | **[fleetsweeper](https://github.com/dcadolph/fleetsweeper)** | Go CLI, webhook         | Finds the Kubernetes cluster that drifted, using the fleet itself as the baseline.              |
 | **[battlesight](https://github.com/dcadolph/battlesight)**   | Web app, Go, TypeScript | An interactive atlas of 13,000+ battles from 3000 BC, each tied to its sources.                 |
 | **[jwtmint](https://github.com/dcadolph/jwtmint)**           | Go library              | A JWT library with a daemon, a controller, an admission webhook, and JWKS publishing.           |
