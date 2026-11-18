@@ -19,6 +19,7 @@ My enterprise work is proprietary, so none of it appears here. These public proj
 | **[sheepdog](https://macsheepdog.com)**                      | macOS app, Swift        | A meeting alarm that escalates until you join, and stops on its own when your mic goes live.    |
 | **[slop-chop](https://github.com/dcadolph/slop-chop)**       | Go CLI                  | Strips the AI tells out of text in one deterministic local pass.                                |
 | **[preen](https://github.com/dcadolph/preen)**               | Go CLI                  | Splits a messy working tree into ordered atomic commits, hash checked end to end.               |
+| **[crier](https://github.com/dcadolph/crier)**               | macOS app, Swift        | Scrolls the top headlines through the menu bar, and alerts only when a story is major.          |
 | **[fleetsweeper](https://github.com/dcadolph/fleetsweeper)** | Go CLI, webhook         | Finds the Kubernetes cluster that drifted, using the fleet itself as the baseline.              |
 | **[battlesight](https://github.com/dcadolph/battlesight)**   | Web app, Go, TypeScript | An interactive atlas of 13,000+ battles from 3000 BC, each tied to its sources.                 |
 | **[jwtmint](https://github.com/dcadolph/jwtmint)**           | Go library              | A JWT library with a daemon, a controller, an admission webhook, and JWKS publishing.           |
