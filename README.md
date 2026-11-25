@@ -27,7 +27,6 @@ My enterprise work is proprietary, so none of it appears here. These public proj
 | **[midden](https://github.com/dcadolph/midden)**             | Go CLI, iPhone app      | A personal journal kept as plain markdown you own, written from the terminal or your iPhone.    |
 | **[fuginaut](https://github.com/dcadolph/fuginaut)**         | macOS app, Swift        | A free second clock at the center of the menu bar, for wide screens.                            |
 | **[cinatlas](https://github.com/dcadolph/cinatlas)**         | Go CLI                  | Quick movie facts from the command line, with filming locations you can map.                    |
-| **[depstamp](https://github.com/dcadolph/depstamp)**         | Claude Code skill       | Records which dependencies an agent actually used in work that built and its tests passed.      |
 
 ### Engineering
 
